@@ -1,0 +1,2 @@
+--require rspec/core/formatters/progress_formatter
+--require rspec/core/did_you_mean
