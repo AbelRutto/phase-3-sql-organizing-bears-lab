@@ -44,7 +44,7 @@ the dependencies for a Ruby application. Running `bundle install` will download
 the gems listed in this file to your system.
 
 In case you forget though, running `learn test` will **also** run
-`bundle install` if you haven't already installed the necessary gems.
+`bundle install` if you haven't already installed the necessary gems. if it persists run `bundle exec rpsec`
 
 ### A Note on Testing
 
